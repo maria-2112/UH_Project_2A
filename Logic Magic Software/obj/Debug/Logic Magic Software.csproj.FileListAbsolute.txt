@@ -1,0 +1,10 @@
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\bin\Debug\Logic Magic Software.exe.config
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\bin\Debug\Logic Magic Software.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\bin\Debug\Logic Magic Software.pdb
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic Magic Software.csprojResolveAssemblyReference.cache
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic_Magic_Software.Form1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic_Magic_Software.MDIParent1.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic_Magic_Software.Properties.Resources.resources
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic Magic Software.csproj.GenerateResource.Cache
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic Magic Software.exe
+c:\users\usuario\documents\visual studio 2013\Projects\Logic Magic Software\Logic Magic Software\obj\Debug\Logic Magic Software.pdb
